@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null; // Désactivez la mise en page par défaut de MVC, car nous utilisons notre propre _Layout.cshtml
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Ma première page HTML</title>
+
+    <link rel="stylesheet" href="~/lib/twitter-bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/lib/fontawesome/css/all.css" />
+    <link rel="stylesheet" href="~/lib/fontawesome-iconpicker/css/fontawesome-iconpicker.css" />
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.js"></script>
+</head>
+<body>
+    <header>
+        <!-- Barre de navigation commune -->
+        <nav>
+            <ul>
+                <li><a href="/">Accueil</a></li>
+                <li><a href="/Home/Inscription">Inscription</a></li>
+                <li><a href="/Home/Authentification">Authentification</a></li>
+                <li><a href="/Home/Index">Index</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div>
+        <!-- Contenu spécifique à la vue -->
+        @RenderBody()
+    </div>
+
+    <footer>
+        <!-- Pied de page commun -->
+        <p>&copy; @DateTime.Now.Year - Nom de votre application</p>
+    </footer>
+</body>
+</html>

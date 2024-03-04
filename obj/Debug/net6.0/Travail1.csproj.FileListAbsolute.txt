@@ -1,0 +1,68 @@
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/appsettings.json
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/libman.json
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/Travail1.staticwebassets.runtime.json
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/Travail1.exe
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/Travail1.deps.json
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/Travail1.runtimeconfig.json
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/Travail1.dll
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/Travail1.pdb
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.csproj.AssemblyReference.cache
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.AssemblyInfoInputs.cache
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.AssemblyInfo.cs
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.csproj.CoreCompileInputs.cache
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.RazorAssemblyInfo.cache
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.RazorAssemblyInfo.cs
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/staticwebassets/msbuild.Travail1.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/staticwebassets/msbuild.build.Travail1.props
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Travail1.props
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Travail1.props
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/scopedcss/bundle/Travail1.styles.css
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.dll
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/refint/Travail1.dll
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.pdb
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.genruntimeconfig.cache
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/ref/Travail1.dll
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electronique/Travail1/obj/Debug/net6.0/Travail1.csproj.CopyComplete
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/appsettings.Development.json
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/appsettings.json
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/libman.json
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/Travail1.staticwebassets.runtime.json
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/Travail1
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/Travail1.deps.json
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/Travail1.runtimeconfig.json
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/Travail1.dll
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/Travail1.pdb
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/donde/Downloads/Travail1/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.csproj.AssemblyReference.cache
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.AssemblyInfoInputs.cache
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.AssemblyInfo.cs
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.csproj.CoreCompileInputs.cache
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.MvcApplicationPartsAssemblyInfo.cache
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.RazorAssemblyInfo.cache
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.RazorAssemblyInfo.cs
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/staticwebassets/msbuild.Travail1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/staticwebassets/msbuild.build.Travail1.props
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Travail1.props
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Travail1.props
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/staticwebassets.build.json
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/staticwebassets.development.json
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/scopedcss/bundle/Travail1.styles.css
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.csproj.CopyComplete
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.dll
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/refint/Travail1.dll
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.pdb
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.genruntimeconfig.cache
+/Users/donde/Downloads/Travail1/obj/Debug/net6.0/ref/Travail1.dll
