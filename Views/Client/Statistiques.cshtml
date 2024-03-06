@@ -4,3 +4,25 @@
 @{
 }
 
+@model Travail1.Models.Client
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <h2>Statistiques du client</h2>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Statistiques d'achat</h3>
+            <p><strong>Nombre d'articles achetés:</strong> @Model.Factures.SelectMany(f => f.ArticlesAchetes).Count()</p>
+            <p><strong>Montant total dépensé:</strong> $@Model.Factures.Sum(f => f.Montant)</p>
+        </div>
+
+        <div class="col-md-6">
+            <h3>Statistiques du panier</h3>
+            <p><strong>Nombre d'articles dans le panier:</strong> @Model.Panier.ArticlesDansPanier.Count</p>
+        </div>
+    </div>
+</div>

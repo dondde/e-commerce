@@ -3,4 +3,42 @@
 *@
 @{
 }
+@model Travail1.Models.Client
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <h2>Profil du client</h2>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Informations personnelles</h3>
+            <p><strong>Nom:</strong> @Model.FirstName</p>
+            <p><strong>Prénom:</strong> @Model.LastName</p>
+            <p><strong>Adresse:</strong> @Model.Address</p>
+            <p><strong>Email:</strong> @Model.Email</p>
+            <p><strong>Date de naissance:</strong> @Model.DateOfBirth.ToString("yyyy-MM-dd")</p>
+            <p><strong>Ville:</strong> @Model.City</p>
+        </div>
+
+        <div class="col-md-6">
+            <h3>Compte client</h3>
+            <p><strong>Solde:</strong> $@Model.Solde</p>
+            <p><strong>Nombre d'articles dans le panier:</strong> @Model.Panier.ArticlesDansPanier.Count</p>
+            <p><strong>Nombre de factures:</strong> @Model.Factures.Count</p>
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col">
+            <h3>Modifier les informations</h3>
+            <form asp-action="ModifierProfil" method="post">
+                <!-- Ajoutez les champs de modification au besoin -->
+                <button type="submit" class="btn btn-primary">Enregistrer les modifications</button>
+            </form>
+        </div>
+    </div>
+</div>
 

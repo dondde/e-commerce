@@ -66,3 +66,38 @@ C:/Users/meass/OneDrive - UQAR/Etudes/hiver2024/technologie_commerce_electroniqu
 /Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.pdb
 /Users/donde/Downloads/Travail1/obj/Debug/net6.0/Travail1.genruntimeconfig.cache
 /Users/donde/Downloads/Travail1/obj/Debug/net6.0/ref/Travail1.dll
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\appsettings.json
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\libman.json
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\Travail1.staticwebassets.runtime.json
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\Travail1.exe
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\Travail1.deps.json
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\Travail1.runtimeconfig.json
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\Travail1.dll
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\Travail1.pdb
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.csproj.AssemblyReference.cache
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.AssemblyInfoInputs.cache
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.AssemblyInfo.cs
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.csproj.CoreCompileInputs.cache
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.RazorAssemblyInfo.cache
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.RazorAssemblyInfo.cs
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.sourcelink.json
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\staticwebassets\msbuild.Travail1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\staticwebassets\msbuild.build.Travail1.props
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Travail1.props
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Travail1.props
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\scopedcss\bundle\Travail1.styles.css
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.csproj.Up2Date
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.dll
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\refint\Travail1.dll
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.pdb
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\Travail1.genruntimeconfig.cache
+C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\obj\Debug\net6.0\ref\Travail1.dll

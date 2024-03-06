@@ -1,6 +1,76 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model List<Travail1.Models.Game>
+
 @{
+    Layout = "_Layout";
 }
 
+<div class="container">
+    <h2>Recherche de jeux</h2>
+
+    <div class="row">
+        <div class="col">
+            <form method="get" action="@Url.Action("Recherche", "Client")">
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="Rechercher un jeu..." name="searchQuery">
+                    <button class="btn btn-outline-secondary" type="submit">Rechercher</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="row">
+            @foreach (var game in Model)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-4 shadow-sm">
+                        <img src="@game.BackgroundImage" class="bd-placeholder-img card-img-top" alt="@game.Name" style="width: 100%; height: 225px; object-fit: cover;">
+                        <div class="card-body">
+                            <h3>@game.Name</h3>
+                            @if (!string.IsNullOrEmpty(game.Released))
+                            {
+                                <p class="card-text">
+                                    Released: @game.Released.Substring(0, 4)
+                                </p>
+                            }
+                            @if (!string.IsNullOrEmpty(game.Console))
+                            {
+                                <p class="card-text">
+                                    Console: @game.Console
+                                </p>
+                            }
+                            @if (!string.IsNullOrEmpty(game.Genre))
+                            {
+                                <p class="card-text">
+                                    Genre: @game.Genre
+                                </p>
+                            }
+                            @if (!string.IsNullOrEmpty(game.Publisher))
+                            {
+                                <p class="card-text">
+                                    Publisher: @game.Publisher
+                                </p>
+                            }
+                            @if (game.Price > 0)
+                            {
+                                <p class="card-text">
+                                    Price: $@game.Price
+                                </p>
+                            }
+                            <div class="d-flex justify-content-between align-items-center">
+                                <small class="text-muted">More Details</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning" role="alert">
+            Aucun jeu trouvé.
+        </div>
+    }
+</div>

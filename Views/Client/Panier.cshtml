@@ -4,3 +4,42 @@
 @{
 }
 
+@model Travail1.Models.Client
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <h2>Panier</h2>
+
+    @if (Model.Panier.ArticlesDansPanier.Any())
+    {
+        <div class="row">
+            <div class="col">
+                <h3>Articles dans le panier</h3>
+                <ul>
+                    @foreach (var article in Model.Panier.ArticlesDansPanier)
+                    {
+                        <li>@article.Name - $@article.Price</li>
+                    }
+                </ul>
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col">
+                <h3>Total: $@Model.Panier.ArticlesDansPanier.Sum(a => a.Price)</h3>
+                <form asp-action="Paiement" method="get">
+                    <button type="submit" class="btn btn-primary">Passer au paiement</button>
+                </form>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info" role="alert">
+            Votre panier est vide. Ajoutez des articles pour les acheter.
+        </div>
+    }
+</div>

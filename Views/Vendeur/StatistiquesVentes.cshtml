@@ -4,3 +4,53 @@
 @{
 }
 
+@model Travail1.Models.Vendeur
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <h2>Statistiques des ventes</h2>
+
+    <div class="row">
+        <div class="col">
+            <h3>Montant total des ventes</h3>
+            <p><strong>Montant total:</strong> $@Model.MontantVentes</p>
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col">
+            <h3>Articles vendus</h3>
+            @if (Model.ArticlesVendus != null && Model.ArticlesVendus.Any())
+            {
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Titre</th>
+                            <th>Année de sortie</th>
+                            <th>Console</th>
+                            <!-- Ajoutez d'autres en-têtes au besoin -->
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var article in Model.ArticlesVendus)
+                        {
+                            <tr>
+                                <td>@article.Name</td>
+                                <td>@article.Released</td>
+                                <td>@article.Console</td>
+                                <!-- Ajoutez d'autres colonnes au besoin -->
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p>Aucun article vendu pour le moment.</p>
+            }
+        </div>
+    </div>
+</div>

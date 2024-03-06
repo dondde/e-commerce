@@ -9,61 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Travail1
 build_property.RootNamespace = Travail1
-build_property.ProjectDir = /Users/donde/Downloads/Travail1/
+build_property.ProjectDir = C:\Users\Moustapha Ndongo\Source\Repos\e-commerce\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/donde/Downloads/Travail1
+build_property.MSBuildProjectDirectory = C:\Users\Moustapha Ndongo\Source\Repos\e-commerce
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/donde/Downloads/Travail1/Views/Client/Paiement.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50L1BhaWVtZW50LmNzaHRtbA==
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Account/Connexion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25uZXhpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Client/Panier.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50L1Bhbmllci5jc2h0bWw=
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Account/Inscription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbnNjcmlwdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Client/Profil.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50L1Byb2ZpbC5jc2h0bWw=
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Client/Paiement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFBhaWVtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Client/Recherche.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50L1JlY2hlcmNoZS5jc2h0bWw=
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Client/Panier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFBhbmllci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Client/Statistiques.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50L1N0YXRpc3RpcXVlcy5jc2h0bWw=
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Client/Profil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFByb2ZpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Home/Acceuil.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BY2NldWlsLmNzaHRtbA==
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Client/Recherche.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFJlY2hlcmNoZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Home/Authentification.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BdXRoZW50aWZpY2F0aW9uLmNzaHRtbA==
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Client/Statistiques.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFN0YXRpc3RpcXVlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Home/Accueil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2N1ZWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Home/Inscription.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbnNjcmlwdGlvbi5jc2h0bWw=
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Vendeur/GererArticles.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVuZGV1ci9HZXJlckFydGljbGVzLmNzaHRtbA==
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Vendeur/GererArticles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGV1clxHZXJlckFydGljbGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Vendeur/Profil.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVuZGV1ci9Qcm9maWwuY3NodG1s
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Vendeur/Profil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGV1clxQcm9maWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/donde/Downloads/Travail1/Views/Vendeur/StatistiquesVentes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVuZGV1ci9TdGF0aXN0aXF1ZXNWZW50ZXMuY3NodG1s
+[C:/Users/Moustapha Ndongo/Source/Repos/e-commerce/Views/Vendeur/StatistiquesVentes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGV1clxTdGF0aXN0aXF1ZXNWZW50ZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

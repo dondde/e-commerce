@@ -4,3 +4,59 @@
 @{
 }
 
+@model Travail1.Models.Vendeur
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <h2>Gérer les articles</h2>
+
+    <div class="row">
+        <div class="col">
+            <h3>Ajouter un nouvel article</h3>
+            <!-- Formulaire pour ajouter un nouvel article -->
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col">
+            <h3>Liste des articles en vente</h3>
+            @if (Model.ArticlesEnVente != null && Model.ArticlesEnVente.Any())
+            {
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Titre</th>
+                            <th>Année de sortie</th>
+                            <th>Console</th>
+                            <!-- Ajoutez d'autres en-têtes au besoin -->
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var article in Model.ArticlesEnVente)
+                        {
+                            <tr>
+                                <td>@article.Name</td>
+                                <td>@article.Released</td>
+                                <td>@article.Console</td>
+                                <!-- Ajoutez d'autres colonnes au besoin -->
+                                <td>
+                                    <!-- Ajoutez des boutons pour modifier ou supprimer l'article -->
+                                    <button class="btn btn-sm btn-primary">Modifier</button>
+                                    <button class="btn btn-sm btn-danger">Supprimer</button>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p>Aucun article en vente pour le moment.</p>
+            }
+        </div>
+    </div>
+</div>

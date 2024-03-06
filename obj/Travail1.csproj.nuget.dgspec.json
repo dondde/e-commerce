@@ -1,31 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/donde/Downloads/Travail1/Travail1.csproj": {}
+    "C:\\Users\\Moustapha Ndongo\\Source\\Repos\\e-commerce\\Travail1.csproj": {}
   },
   "projects": {
-    "/Users/donde/Downloads/Travail1/Travail1.csproj": {
+    "C:\\Users\\Moustapha Ndongo\\Source\\Repos\\e-commerce\\Travail1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/donde/Downloads/Travail1/Travail1.csproj",
+        "projectUniqueName": "C:\\Users\\Moustapha Ndongo\\Source\\Repos\\e-commerce\\Travail1.csproj",
         "projectName": "Travail1",
-        "projectPath": "/Users/donde/Downloads/Travail1/Travail1.csproj",
-        "packagesPath": "/Users/donde/.nuget/packages/",
-        "outputPath": "/Users/donde/Downloads/Travail1/obj/",
+        "projectPath": "C:\\Users\\Moustapha Ndongo\\Source\\Repos\\e-commerce\\Travail1.csproj",
+        "packagesPath": "C:\\Users\\Moustapha Ndongo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moustapha Ndongo\\Source\\Repos\\e-commerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/donde/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Moustapha Ndongo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -33,15 +34,44 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNet.WebApi.Client": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -55,20 +85,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.osx-arm64",
-              "version": "[6.0.23, 6.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -77,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

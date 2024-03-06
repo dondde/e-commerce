@@ -1,5 +1,5 @@
 ﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+   For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
     Layout = null; // Désactivez la mise en page par défaut de MVC, car nous utilisons notre propre _Layout.cshtml
@@ -11,21 +11,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - Ma première page HTML</title>
 
+    <!-- Inclure la bibliothèque Bootstrap CSS -->
     <link rel="stylesheet" href="~/lib/twitter-bootstrap/css/bootstrap.css" />
-    <link rel="stylesheet" href="~/lib/fontawesome/css/all.css" />
-    <link rel="stylesheet" href="~/lib/fontawesome-iconpicker/css/fontawesome-iconpicker.css" />
+
+    <!-- Inclure la bibliothèque Font Awesome CSS -->
+    <link href="~/lib/font-awesome/css/all.css" rel="stylesheet">
+
+    <!-- Inclure les scripts jQuery, Popper.js et Bootstrap JS -->
+    <script src="~/lib/jquery/jquery.js"></script>
+    <script src="~/lib/popper.js/umd/popper.js"></script>
     <script src="~/lib/twitter-bootstrap/js/bootstrap.js"></script>
 </head>
 <body>
     <header>
         <!-- Barre de navigation commune -->
-        <nav>
-            <ul>
-                <li><a href="/">Accueil</a></li>
-                <li><a href="/Home/Inscription">Inscription</a></li>
-                <li><a href="/Home/Authentification">Authentification</a></li>
-                <li><a href="/Home/Index">Index</a></li>
-            </ul>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="/"> <i class="fa-solid fa-gamepad"></i> Game Store</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarScroll">
+                    <form class="d-flex ms-auto" style="width: 25%;">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success" type="submit"><i class="fas fa-search"></i></button>
+                    </form>
+                    <ul class="navbar-nav">
+                       
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Account/Inscription">Inscription</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Account/Connexion">Connexion</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><i class="fas fa-shopping-bag"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </nav>
     </header>
 
