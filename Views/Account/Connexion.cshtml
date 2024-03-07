@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_Layout";
+}
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="card mt-3"> 
+                <div class="card-header">
+                    <h3> Connexion </h3>
+                </div>
+                <div class="card-body">
+                    <form>
+                        <div class="row mb-3"> <!-- Ajout de la classe 'mb-3' pour un espacement vertical -->
+                            <div class="col-md-2"> <!-- Utilisation de col-md-2 pour réserver 2 colonnes pour le label -->
+                                <label for="email" class="form-label fw-bold">Email :</label> <!-- Ajout de la classe 'fw-bold' pour le texte en gras -->
+                            </div>
+                            <div class="col-md-10"> <!-- Utilisation de col-md-10 pour réserver 10 colonnes pour le champ -->
+                                <input type="email" id="email" class="form-control rounded" placeholder="Email" /> <!-- Correction de la fermeture de la balise input -->
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-2">
+                                <label for="password" class="form-label fw-bold">Mot de passe :</label>
+                            </div>
+                            <div class="col-md-10">
+                                <input type="password" id="password" class="form-control rounded" placeholder="Mot de passe ..." />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col text-center">
+                                <button type="submit" class="btn btn-dark btn-block">Connexion</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

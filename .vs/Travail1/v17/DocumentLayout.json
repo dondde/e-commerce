@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|c:\\users\\moustapha ndongo\\source\\repos\\e-commerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|c:\\users\\moustapha ndongo\\source\\repos\\e-commerce\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|solutionrelative:gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|c:\\users\\moustapha ndongo\\source\\repos\\e-commerce\\models\\vendeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|solutionrelative:models\\vendeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|c:\\users\\moustapha ndongo\\source\\repos\\e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|c:\\users\\moustapha ndongo\\source\\repos\\e-commerce\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|c:\\users\\moustapha ndongo\\source\\repos\\e-commerce\\views\\vendeur\\gererarticles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|solutionrelative:views\\vendeur\\gererarticles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|c:\\users\\moustapha ndongo\\source\\repos\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D944C312-1737-4FCC-8D15-C2D643708ECD}|Travail1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:15:30.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:07:34.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GererArticles.cshtml",
+              "DocumentMoniker": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Views\\Vendeur\\GererArticles.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vendeur\\GererArticles.cshtml",
+              "ToolTip": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Views\\Vendeur\\GererArticles.cshtml",
+              "RelativeToolTip": "Views\\Vendeur\\GererArticles.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T19:15:16.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:05:10.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vendeur.cs",
+              "DocumentMoniker": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Models\\Vendeur.cs",
+              "RelativeDocumentMoniker": "Models\\Vendeur.cs",
+              "ToolTip": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Models\\Vendeur.cs",
+              "RelativeToolTip": "Models\\Vendeur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:04:49.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\GameContext.cs",
+              "RelativeDocumentMoniker": "GameContext.cs",
+              "ToolTip": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\GameContext.cs",
+              "RelativeToolTip": "GameContext.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:27:01.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Moustapha Ndongo\\source\\repos\\e-commerce\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:25:24.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Travail1
+build_property.RootNamespace = Travail1
+build_property.ProjectDir = C:\Users\Moustapha Ndongo\source\repos\e-commerce\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Moustapha Ndongo\source\repos\e-commerce
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Account/Connexion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25uZXhpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Account/Inscription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbnNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Client/Paiement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFBhaWVtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Client/Panier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFBhbmllci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Client/Profil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFByb2ZpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Client/Recherche.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFJlY2hlcmNoZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Client/Statistiques.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFN0YXRpc3RpcXVlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Home/Accueil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2N1ZWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Vendeur/GererArticles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGV1clxHZXJlckFydGljbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Vendeur/Profil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGV1clxQcm9maWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moustapha Ndongo/source/repos/e-commerce/Views/Vendeur/StatistiquesVentes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGV1clxTdGF0aXN0aXF1ZXNWZW50ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
